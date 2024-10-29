@@ -63,11 +63,12 @@ header button {
 
 main #course-content {
     background-color: black;
-    height: 60vh;
+    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border: 1px solid red;
 }
 
 main #course-content h2 {
